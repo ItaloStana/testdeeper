@@ -1,24 +1,25 @@
-# my-crud-app
+# CRUD App com Vue.js e Flask
 
-## Project setup
-```
-npm install
-```
+Este é um aplicativo CRUD (Criar, Ler, Atualizar, Deletar) para gerenciar usuários, desenvolvido com Vue.js no frontend e Flask no backend.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tecnologias Utilizadas
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- **Frontend:** Vue.js
+- **Backend:** Flask
+- **Banco de Dados:** MongoDB
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Pré-requisitos
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Antes de começar, você precisa ter instalado:
+
+- [Node.js](https://nodejs.org/) (inclui npm)
+- [Python 3.x](https://www.python.org/downloads/)
+- [MongoDB](https://www.mongodb.com/try/download/community) (instale no seu sistema ou utilize um serviço de nuvem)
+
+## Instalação
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/ItaloStana/testdeeper
+cd testdeeper

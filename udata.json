@@ -1,0 +1,544 @@
+{
+    "users" : [
+      {
+        "username" : " john_doe_1 " ,
+        "senha" : " 9X$mK2pL " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Nova_Iorque " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-09-15T08:30:45Z "
+      },
+      {
+        "usuário" : " jane_smith_2 " ,
+        "senha" : " 7Zt#nR4qJ " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Europa/Londres " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-10-02T14:22:30Z "
+      },
+      {
+        "usuário" : " alex_johnson_3 " ,
+        "senha" : " 5Hy$bF8wP " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Tóquio " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-11-20T03:45:12Z "
+      },
+      {
+        "usuário" : " emily_brown_4 " ,
+        "senha" : " 2Kl@pR9sM " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Austrália/Sydney " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-01-05T19:10:33Z "
+      },
+      {
+        "usuário" : " michael_wilson_5 " ,
+        "senha" : " 6Nj#qT3fL " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Europa/Berlim " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-12-12T11:55:20Z "
+      },
+      {
+        "usuário" : " olivia_taylor_6 " ,
+        "senha" : " 4Gm$hB7wS " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " América/Los_Angeles " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-02-28T07:40:15Z "
+      },
+      {
+        "usuário" : " william_anderson_7 " ,
+        "senha" : " 8Vx#kF1yP " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Singapura " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-08-30T22:05:40Z "
+      },
+      {
+        "usuário" : " sophia_martinez_8 " ,
+        "senha" : " 1Jc@tN5mR " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Chicago " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-03-10T16:30:55Z "
+      },
+      {
+        "usuário" : " ethan_thomas_9 " ,
+        "senha" : " 3Bk$wH9pL " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Europa/Paris " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-07-18T09:15:25Z "
+      },
+      {
+        "usuário" : " ava_garcia_10 " ,
+        "senha" : " 7Mq#zD2sN " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Ásia/Dubai " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-01-22T13:50:10Z "
+      },
+      {
+        "usuário" : " noah_robinson_11 " ,
+        "senha" : " 9Pf@cX6vK " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " América/Toronto " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-11-05T05:25:35Z "
+      },
+      {
+        "usuário" : " isabella_clark_12 " ,
+        "senha" : " 2Ys#jM8bH " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Europa/Roma " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-02-14T18:40:50Z "
+      },
+      {
+        "usuário" : " liam_walker_13 " ,
+        "senha" : " 5Lz$rG4nF " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Hong_Kong " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-09-28T01:20:15Z "
+      },
+      {
+        "usuário" : " mia_hall_14 " ,
+        "senha" : " 8Hc#xQ1wT " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Denver " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-03-25T10:55:40Z "
+      },
+      {
+        "usuário" : " james_young_15 " ,
+        "senha" : " 6Nk@bS3mJ " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Europa/Amsterdã " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-08-07T23:30:05Z "
+      },
+      {
+        "usuário" : " charlotte_lee_16 " ,
+        "senha" : " 1Wf#pD7vR " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Austrália/Melbourne " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-01-09T15:05:30Z "
+      },
+      {
+        "usuário" : " benjamin_scott_17 " ,
+        "senha" : " 4Jm$zH2kL " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Phoenix " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-10-31T07:40:55Z "
+      },
+      {
+        "usuário" : " amelia_green_18 " ,
+        "senha" : " 9Tb#cF5nS " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Europa/Moscou " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-02-02T20:15:20Z "
+      },
+      {
+        "usuário" : " elijah_adams_19 " ,
+        "senha" : " 3Rk@wL8pX " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Seul " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-07-26T12:50:45Z "
+      },
+      {
+        "usuário" : " harper_baker_20 " ,
+        "senha" : " 7Vj#mN4sQ " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/São_Paulo " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-03-18T04:25:10Z "
+      },
+      {
+        "usuário" : " daniel_gonzalez_21 " ,
+        "senha" : " 2Xc$hF9bM " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Europa/Viena " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-09-03T17:00:35Z "
+      },
+      {
+        "usuário" : " evelyn_nelson_22 " ,
+        "senha" : " 5Pq#tG3kR " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Ásia/Bangkok " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-01-27T09:35:00Z "
+      },
+      {
+        "usuário" : " matthew_carter_23 " ,
+        "senha" : " 8Lm@zB6wH " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " América/Vancouver " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-11-14T02:10:25Z "
+      },
+      {
+        "usuário" : " abigail_mitchell_24 " ,
+        "senha" : " 1Nf#jS7vD " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Europa/Madrid " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-02-20T14:45:50Z "
+      },
+      {
+        "usuário" : " joseph_perez_25 " ,
+        "senha" : " 6Hk$rL2nX " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Austrália/Perth " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-08-16T07:20:15Z "
+      },
+      {
+        "usuário" : " elizabeth_roberts_26 " ,
+        "senha" : " 9Wc#pM5bQ " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Cidade_do_México " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-03-05T19:55:40Z "
+      },
+      {
+        "usuário" : " david_turner_27 " ,
+        "senha" : " 3Tj@xF8mK " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Europa/Estocolmo " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-10-09T11:30:05Z "
+      },
+      {
+        "usuário" : " sofia_phillips_28 " ,
+        "senha" : " 7Bq#zN4wR " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Ásia/Calcutá " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-01-14T04:05:30Z "
+      },
+      {
+        "usuário" : " christopher_campbell_29 " ,
+        "senha" : " 2Mk$hS9pL " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Buenos_Aires " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-07-03T16:40:55Z "
+      },
+      {
+        "usuário" : " avery_parker_30 " ,
+        "senha" : " 5Gj#cD3vH " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Europa/Dublin " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-02-08T09:15:20Z "
+      },
+      {
+        "usuário" : " andrew_evans_31 " ,
+        "senha" : " 8Rp@wB6nM " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Jacarta " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-11-25T21:50:45Z "
+      },
+      {
+        "usuário" : " scarlett_edwards_32 " ,
+        "senha" : " 1Lm#tF7kS " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Lima " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-03-30T13:25:10Z "
+      },
+      {
+        "usuário" : " joseph_collins_33 " ,
+        "senha" : " 4Xj$zQ2bH " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Europa/Varsóvia " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-09-21T05:00:35Z "
+      },
+      {
+        "usuário" : " victoria_stewart_34 " ,
+        "senha" : " 9Nq#pL5mR " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Austrália/Brisbane " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-01-01T18:35:00Z "
+      },
+      {
+        "usuário" : " zoe_fletcher_51 " ,
+        "senha" : " 7Kp#mR2sX " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " África/Joanesburgo " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-12-05T11:20:30Z "
+      },
+      {
+        "usuário" : " felix_hammond_52 " ,
+        "senha" : " 9Bj@tN4wL " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " América/Bogotá " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-02-18T03:45:15Z "
+      },
+      {
+        "usuário" : " iris_mccarthy_53 " ,
+        "senha" : " 2Vq$zF8pH " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Manila " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2023-10-22T19:10:40Z "
+      },
+      {
+        "usuário" : " oscar_fitzgerald_54 " ,
+        "senha" : " 5Mc#hS1kR " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Europa/Atenas " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-01-09T07:35:55Z "
+      },
+      {
+        "usuário" : " luna_pearson_55 " ,
+        "senha" : " 8Gf@wD3bN " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Pacífico/Auckland " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-11-30T22:00:20Z "
+      },
+      {
+        "usuário" : " xavier_hudson_56 " ,
+        "senha" : " 1Tj#pL6mX " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Santiago " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-03-14T14:25:45Z "
+      },
+      {
+        "usuário" : " hazel_ferguson_57 " ,
+        "senha" : " 4Nk$zB9sQ " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Karachi " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-09-08T05:50:10Z "
+      },
+      {
+        "usuário" : " leo_watts_58 " ,
+        "senha" : " 6Rp@cM2vH " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Europa/Lisboa " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-02-01T17:15:35Z "
+      },
+      {
+        "usuário" : " aurora_klein_59 " ,
+        "senha" : " 3Hj#tF7wK " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " África/Cairo " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-12-19T09:40:00Z "
+      },
+      {
+        "usuário" : " miles_goodwin_60 " ,
+        "senha" : " 9Lq$xN5bR " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Havana " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-01-23T01:05:25Z "
+      },
+      {
+        "usuário" : " stella_frost_61 " ,
+        "senha" : " 2Wc@zS8mL " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Teerã " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-10-11T16:30:50Z "
+      },
+      {
+        "usuário" : " jasper_heath_62 " ,
+        "senha" : " 7Fk#pD4nX " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Europa/Copenhague " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-03-05T08:55:15Z "
+      },
+      {
+        "usuário" : " ivy_blackburn_63 " ,
+        "senha" : " 5Mj@hB1sQ " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Pacífico/Honolulu " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2023-11-14T23:20:40Z "
+      },
+      {
+        "usuário" : " finn_mccormick_64 " ,
+        "senha" : " 8Tp$wR3vN " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Montevidéu " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-02-28T13:45:05Z "
+      },
+      {
+        "usuário" : " ruby_holden_65 " ,
+        "senha" : " 1Bc#zL6kH " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Almaty " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-09-30T05:10:30Z "
+      },
+      {
+        "usuário" : " silas_brock_66 " ,
+        "senha" : " 4Nq@tF9mR " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Europa/Helsinque " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-01-17T20:35:55Z "
+      },
+      {
+        "usuário" : " willow_osborne_67 " ,
+        "senha" : " 6Gk#xM2wS " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : true ,
+        "user_timezone" : " África/Nairóbi " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-12-01T11:00:20Z "
+      },
+      {
+        "usuário" : " ezra_wilkinson_68 " ,
+        "senha" : " 9Rj$cB5pH " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : true ,
+        "is_user_tester" : false ,
+        "user_timezone" : " América/Jamaica " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2024-03-20T03:25:45Z "
+      },
+      {
+        "usuário" : " daisy_rowland_69 " ,
+        "senha" : " 3Hm#zN8bL " ,
+        "is_user_admin" : true ,
+        "is_user_manager" : true ,
+        "is_user_tester" : true ,
+        "user_timezone" : " Ásia/Riyadh " ,
+        "is_user_active" : true ,
+        "criado_em" : " 2023-10-05T17:50:10Z "
+      },
+      {
+        "usuário" : " rowan_griffiths_70 " ,
+        "senha" : " 7Lp@wS1vX " ,
+        "is_user_admin" : false ,
+        "is_user_manager" : false ,
+        "is_user_tester" : false ,
+        "user_timezone" : " Europa/Oslo " ,
+        "is_user_active" : false ,
+        "criado_em" : " 2024-02-12T09:15:35Z "
+      }
+    ]
+  }
